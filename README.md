@@ -19,7 +19,7 @@
 | :orange_circle: | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/newsgrid-website/) |
 | :orange_circle: | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
 | :heavy_check_mark: **React** |
-| :pencil2: | React Guide | The complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
+| :pencil2: | React Guide | A complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
 | :orange_circle: :x: | React Starter Template | Starter template for creating React applications. | :link: [Repo](https://github.com/sidneyshafer/react-starter-template) |
 | :orange_circle: | Expense Tracker | A component-based expense tracking application using React and CSS module styling. | :link: [Repo](https://github.com/sidneyshafer/expense-tracker)<br>:link: [Demo](https://cosmic-chebakia-644d50.netlify.app/) |
 | :orange_circle: | Todo List | A React application for adding todos to a list. | :link: [Repo](https://github.com/sidneyshafer/todo-list)<br>:link: [Demo](https://funny-paletas-5452e6.netlify.app/) |
