@@ -3,7 +3,7 @@
 Check out my projects through the catalog below :raised_hands:
 
 | Category | Project :rocket: | Description | Repo & Live Demo |
-| -------|---------|-------------|------|-----------|
+| -------|---------|-------------|------|
 | **Web Projects** |
 | | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. | [Repo Link](https://github.com/sidneyshafer/mini-web-projects) |
 | | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | [Repo Link](https://github.com/sidneyshafer/webpage-projects) |
