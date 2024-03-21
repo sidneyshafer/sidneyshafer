@@ -2,9 +2,9 @@
 
 Check out my projects through the catalog below :raised_hands:
 
-| Category | Project :rocket: | Description | Repo | Live Demo :arrow_upper_right: |
+| Category | Project :rocket: | Description | Repo | Live Demo |
 | -------|---------|-------------|------|-----------|
-| Web |
+| **Web Projects** |
 | | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. | [Repo Link](https://github.com/sidneyshafer/mini-web-projects) | |
 | | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | [Repo Link](https://github.com/sidneyshafer/webpage-projects) | |
 | | Webpack Starter | Boilerplate for Webpack Applications | [Repo Link](https://github.com/sidneyshafer/webpack-starter) | |
@@ -13,22 +13,22 @@ Check out my projects through the catalog below :raised_hands:
 | | Hotel | A static and responsive website built with HTML and CSS to display hotel information. | [Repo Link](https://github.com/sidneyshafer/hotel-website) | :link: [Live Demo](https://sidneyshafer.github.io/hotel-website/) |
 | | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | [Repo Link](https://github.com/sidneyshafer/newsgrid-website) | :link: [Live Demo](https://sidneyshafer.github.io/newsgrid-website/) |
 | | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | [Repo Link](https://github.com/sidneyshafer/newsgrid-website) | :link: [Live Demo](https://sidneyshafer.github.io/tech-store/) |
-| React |
+| **React** |
 | | React Guide | The complete React guide | [Repo Link](https://github.com/sidneyshafer/complete-react-guide) | |
 | | React Starter Template | Starter template for creating React applications. | [Repo Link](https://github.com/sidneyshafer/react-starter-template) | |
 | | Expense Tracker | A component-based expense tracking application using React and CSS module styling. | [Repo Link](https://github.com/sidneyshafer/expense-tracker) | :link: [Live Demo](https://cosmic-chebakia-644d50.netlify.app/) |
 | | Todo List | A React application for adding todos to a list. | [Repo Link](https://github.com/sidneyshafer/todo-list) | :link: [Live Demo](https://funny-paletas-5452e6.netlify.app/) |
-| .NET |
+| **.NET** |
 | | Conversions | A Windows Form Application built with C# to calculate conversions. | [Repo Link](https://github.com/sidneyshafer/conversions) | |
 | | Pizza Order | A Windows Form Application built with C# that incorporates user input controls and performs calculations to mimic a pizza order app. | [Repo Link](https://github.com/sidneyshafer/pizza-order-app) | |
 | | Calculator | A mobile calculator application built for iOS and Android devices using C#, Xamarin.Forms, XAML pages, and data binding. | [Repo Link](https://github.com/sidneyshafer/calculator) | |
 | | Bloggie | An ASP.NET MVC Core web application for displaying and creating blog posts. | [Repo Link](https://github.com/sidneyshafer/Bloggie) | |
 | | Tic-Tac-Toe | A console application built with C# to play a game of Tic-Tac-Toe. | [Repo Link](https://github.com/sidneyshafer/tic-tac-toe) | |
-| Machine Learning/AI |
+| **Machine Learning/AI** |
 | | Zumi Obstacle Classification | A Machine Learning project with Python in Jupyter Notebook that instructs a Zumi robot to classify objects using k-NN and Logistic Regression algorithms. | [Repo Link](https://github.com/sidneyshafer/zumi-project) | |
-| Java |
+| **Java** |
 | | Hangman | A Java app for playing hangman. | [Repo Link](https://github.com/sidneyshafer/hangman) | |
-| Sandboxes |
+| **Sandboxes** |
 | | HTML | Source code for learning the basics of HTML. | [Repo Link](https://github.com/sidneyshafer/html-sandbox) | |
 | | CSS | Source code for learning the basics of CSS. | [Repo #1 Link](https://github.com/sidneyshafer/css-sandbox) [Repo #2 Link](https://github.com/sidneyshafer/css-sandbox) | |
 | | CSS Grid | Source code for learning the basics of CSS Grid. | [Repo Link](https://github.com/sidneyshafer/grid-sandbox) | |
