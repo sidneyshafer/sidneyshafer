@@ -11,7 +11,7 @@
 | -------|---------|-------------|------|
 | :heavy_check_mark: **Web Projects** |
 | :orange_circle: | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
-| :orange_circle: :x: | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | [Repo](https://github.com/sidneyshafer/webpage-projects) |
+| :orange_circle: :x: | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/webpage-projects) |
 | :orange_circle: :x: | Webpack Starter | Boilerplate for Webpack Applications | :link: [Repo](https://github.com/sidneyshafer/webpack-starter) |
 | :orange_circle: | Sharing Ideas | A full stack web application designed for sharing information. <br>Built with HTML, CSS, JavaScript, Node.js, Webpack on the client side and Express REST API connected to MongoDB on the server side. | :link: [Repo](https://github.com/sidneyshafer/sharing-ideas-app) |
 | :orange_circle: | Tindog | A play on "Tinder", this static and responsive webpage is built with HTML, Bootstrap, and customized CSS styles. | :link: [Repo](https://github.com/sidneyshafer/tindog)<br>:link: [Demo](https://sidneyshafer.github.io/tindog/) |
