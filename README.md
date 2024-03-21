@@ -30,10 +30,10 @@
 | | Hangman | A Java app for playing hangman. | [Repo Link](https://github.com/sidneyshafer/hangman) |
 | :heavy_check_mark: **Sandboxes** |
 | | HTML | Source code for learning the basics of HTML. | [Repo Link](https://github.com/sidneyshafer/html-sandbox) |
-| | CSS | Source code for learning the basics of CSS. | [Repo #1 Link](https://github.com/sidneyshafer/css-sandbox) [Repo #2 Link](https://github.com/sidneyshafer/css-sandbox) |
+| | CSS | Source code for learning the basics of CSS. | [Repo #1 Link](https://github.com/sidneyshafer/css-sandbox)<br>[Repo #2 Link](https://github.com/sidneyshafer/css-sandbox) |
 | | CSS Grid | Source code for learning the basics of CSS Grid. | [Repo Link](https://github.com/sidneyshafer/grid-sandbox) |
 | | SASS | Source code for learning the basics SASS (Syntactically Awesome Style Sheets). | [Repo Link](https://github.com/sidneyshafer/sass-sandbox) |
 | | JavaScript | Programming files/projects for learning the basics of JavaScript. | [Repo Link](https://github.com/sidneyshafer/javascript-sandbox) |
 | | C# | Programming files/projects for learning .NET and C#. | [Repo Link](https://github.com/sidneyshafer/c-sharp-sandbox) |
-| | Python | Programming files/projects for learning basic and advanced Python concepts. | [Repo #1 Link](https://github.com/sidneyshafer/python-pro-bootcamp) [Repo #2 Link](https://github.com/sidneyshafer/python-bootcamp) [Repo #3 Link](https://github.com/sidneyshafer/python-fundamentals) |
+| | Python | Programming files/projects for learning basic and advanced Python concepts. | [Repo #1 Link](https://github.com/sidneyshafer/python-pro-bootcamp)<br>[Repo #2 Link](https://github.com/sidneyshafer/python-bootcamp)<br>[Repo #3 Link](https://github.com/sidneyshafer/python-fundamentals) |
 | | Java | Programming files/projects for learning the basics of Java. | [Repo Link](https://github.com/sidneyshafer/java-sandbox) |
