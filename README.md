@@ -1,4 +1,4 @@
-## :pushpin: PROJECT CATALOG
+## :pushpin: Project Catalog
 
 :star: Check out my projects through the catalog below :raised_hands:
 
@@ -9,15 +9,15 @@
 | | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | [Repo Link](https://github.com/sidneyshafer/webpage-projects) |
 | | Webpack Starter | Boilerplate for Webpack Applications | [Repo Link](https://github.com/sidneyshafer/webpack-starter) |
 | | Sharing Ideas | A full stack web application designed for sharing information. Built with HTML, CSS, JavaScript, Node.js, Webpack on the client side and Express REST API connected to MongoDB on the server side. | [Repo Link](https://github.com/sidneyshafer/sharing-ideas-app) |
-| | Tindog | A play on "Tinder", this static and responsive webpage is built with HTML, Bootstrap, and customized CSS styles. | [Repo Link](https://github.com/sidneyshafer/tindog) :link: [Live Demo](https://sidneyshafer.github.io/tindog/) |
-| | Hotel | A static and responsive website built with HTML and CSS to display hotel information. | [Repo Link](https://github.com/sidneyshafer/hotel-website) :link: [Live Demo](https://sidneyshafer.github.io/hotel-website/) |
-| | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | [Repo Link](https://github.com/sidneyshafer/newsgrid-website) :link: [Live Demo](https://sidneyshafer.github.io/newsgrid-website/) |
-| | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | [Repo Link](https://github.com/sidneyshafer/newsgrid-website) :link: [Live Demo](https://sidneyshafer.github.io/tech-store/) |
+| | Tindog | A play on "Tinder", this static and responsive webpage is built with HTML, Bootstrap, and customized CSS styles. | [Repo Link](https://github.com/sidneyshafer/tindog)<br>:link: [Live Demo](https://sidneyshafer.github.io/tindog/) |
+| | Hotel | A static and responsive website built with HTML and CSS to display hotel information. | [Repo Link](https://github.com/sidneyshafer/hotel-website)<br>:link: [Live Demo](https://sidneyshafer.github.io/hotel-website/) |
+| | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | [Repo Link](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Live Demo](https://sidneyshafer.github.io/newsgrid-website/) |
+| | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | [Repo Link](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Live Demo](https://sidneyshafer.github.io/tech-store/) |
 | :heavy_check_mark: **React** |
 | | React Guide | The complete React guide | [Repo Link](https://github.com/sidneyshafer/complete-react-guide) |
 | | React Starter Template | Starter template for creating React applications. | [Repo Link](https://github.com/sidneyshafer/react-starter-template) |
-| | Expense Tracker | A component-based expense tracking application using React and CSS module styling. | [Repo Link](https://github.com/sidneyshafer/expense-tracker) :link: [Live Demo](https://cosmic-chebakia-644d50.netlify.app/) |
-| | Todo List | A React application for adding todos to a list. | [Repo Link](https://github.com/sidneyshafer/todo-list) | :link: [Live Demo](https://funny-paletas-5452e6.netlify.app/) |
+| | Expense Tracker | A component-based expense tracking application using React and CSS module styling. | [Repo Link](https://github.com/sidneyshafer/expense-tracker)<br>:link: [Live Demo](https://cosmic-chebakia-644d50.netlify.app/) |
+| | Todo List | A React application for adding todos to a list. | [Repo Link](https://github.com/sidneyshafer/todo-list)<br>:link: [Live Demo](https://funny-paletas-5452e6.netlify.app/) |
 | :heavy_check_mark: **.NET** |
 | | Conversions | A Windows Form Application built with C# to calculate conversions. | [Repo Link](https://github.com/sidneyshafer/conversions) |
 | | Pizza Order | A Windows Form Application built with C# that incorporates user input controls and performs calculations to mimic a pizza order app. | [Repo Link](https://github.com/sidneyshafer/pizza-order-app) |
