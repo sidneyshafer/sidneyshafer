@@ -30,7 +30,7 @@
 | :orange_circle: | Bloggie | An ASP.NET MVC Core web application for displaying and creating blog posts. | :link: [Repo](https://github.com/sidneyshafer/Bloggie) |
 | :orange_circle: | Tic-Tac-Toe | A console application built with C# to play a game of Tic-Tac-Toe. | :link: [Repo](https://github.com/sidneyshafer/tic-tac-toe) |
 | **Machine Learning/AI** |
-| :orange_circle: | Zumi Obstacle Classification | A Machine Learning project with Python in Jupyter Notebook that instructs a Zumi robot to classify objects using k-NN and Logistic Regression algorithms. | [Repo Link](https://github.com/sidneyshafer/zumi-project) |
+| :orange_circle: | Zumi Obstacle Classification | A Machine Learning project with Python in Jupyter Notebook that instructs a Zumi robot to classify objects using k-NN and Logistic Regression algorithms. | :link: [Repo](https://github.com/sidneyshafer/zumi-project) |
 | **Java** |
 | :orange_circle: | Hangman | A Java app for playing hangman. | :link: [Repo](https://github.com/sidneyshafer/hangman) |
 | **Sandboxes** |
