@@ -2,17 +2,22 @@
 
 :star: Check out my projects through the catalog below :raised_hands:
 
-| :sparkler: Category | :rocket: Project | :left_speech_bubble: Description |:link: Repo/Demo |
+* :orange_circle: - Project Applications
+* :x: - Project Starters
+* :pencil2: - Guides & Other Resources
+* :link: - Links
+
+| :sparkler: Category | :rocket: Project | :left_speech_bubble: Description | :link: Repo/Demo |
 | -------|---------|-------------|------|
 | :heavy_check_mark: **Web Projects** |
-| | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. |:link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
-| | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | [Repo](https://github.com/sidneyshafer/webpage-projects) |
-| | Webpack Starter | Boilerplate for Webpack Applications | :link: [Repo](https://github.com/sidneyshafer/webpack-starter) |
-| | Sharing Ideas | A full stack web application designed for sharing information. <br>Built with HTML, CSS, JavaScript, Node.js, Webpack on the client side and Express REST API connected to MongoDB on the server side. | :link: [Repo](https://github.com/sidneyshafer/sharing-ideas-app) |
-| | Tindog | A play on "Tinder", this static and responsive webpage is built with HTML, Bootstrap, and customized CSS styles. | :link: [Repo](https://github.com/sidneyshafer/tindog)<br>:link: [Demo](https://sidneyshafer.github.io/tindog/) |
-| | Hotel | A static and responsive website built with HTML and CSS to display hotel information. | :link: [Repo](https://github.com/sidneyshafer/hotel-website)<br>:link: [Demo](https://sidneyshafer.github.io/hotel-website/) |
-| | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/newsgrid-website/) |
-| | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
+| | :orange_circle: Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
+| | :orange_circle::x: Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | [Repo](https://github.com/sidneyshafer/webpage-projects) |
+| | :x: Webpack Starter | Boilerplate for Webpack Applications | :link: [Repo](https://github.com/sidneyshafer/webpack-starter) |
+| | :orange_circle: Sharing Ideas | A full stack web application designed for sharing information. <br>Built with HTML, CSS, JavaScript, Node.js, Webpack on the client side and Express REST API connected to MongoDB on the server side. | :link: [Repo](https://github.com/sidneyshafer/sharing-ideas-app) |
+| | :orange_circle: Tindog | A play on "Tinder", this static and responsive webpage is built with HTML, Bootstrap, and customized CSS styles. | :link: [Repo](https://github.com/sidneyshafer/tindog)<br>:link: [Demo](https://sidneyshafer.github.io/tindog/) |
+| | :orange_circle: Hotel | A static and responsive website built with HTML and CSS to display hotel information. | :link: [Repo](https://github.com/sidneyshafer/hotel-website)<br>:link: [Demo](https://sidneyshafer.github.io/hotel-website/) |
+| | :orange_circle: NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/newsgrid-website/) |
+| | :orange_circle: Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
 | :heavy_check_mark: **React** |
 | | React Guide | The complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
 | | React Starter Template | Starter template for creating React applications. | :link: [Repo](https://github.com/sidneyshafer/react-starter-template) |
