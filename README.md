@@ -2,7 +2,7 @@
 
 :star: Check out my projects through the catalog below :raised_hands:
 
-| :label: Category | :rocket: Project | :left_speech_bubble: Description | :link: Repo/Live Demo |
+| :sparkler: Category | :rocket: Project | :left_speech_bubble: Description | :link: Repo/Live Demo |
 | -------|---------|-------------|------|
 | :heavy_check_mark: **Web Projects** |
 | | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. | [Repo Link](https://github.com/sidneyshafer/mini-web-projects) |
@@ -37,3 +37,5 @@
 | | C# | Programming files/projects for learning .NET and C#. | [Repo Link](https://github.com/sidneyshafer/c-sharp-sandbox) |
 | | Python | Programming files/projects for learning basic and advanced Python concepts. | [Repo #1 Link](https://github.com/sidneyshafer/python-pro-bootcamp)<br>[Repo #2 Link](https://github.com/sidneyshafer/python-bootcamp)<br>[Repo #3 Link](https://github.com/sidneyshafer/python-fundamentals) |
 | | Java | Programming files/projects for learning the basics of Java. | [Repo Link](https://github.com/sidneyshafer/java-sandbox) |
+
+:copyright: Copyright 2024 Sidney Shafer 
