@@ -2,10 +2,10 @@
 
 :star: Check out my projects through the catalog below :raised_hands:
 
-| :sparkler: Category | :rocket: Project | :left_speech_bubble: Description | :link: Repo/Demo |
+| :sparkler: Category | :rocket: Project | :left_speech_bubble: Description |:link: Repo/Demo |
 | -------|---------|-------------|------|
 | :heavy_check_mark: **Web Projects** |
-| | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
+| | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. |:link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
 | | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | [Repo](https://github.com/sidneyshafer/webpage-projects) |
 | | Webpack Starter | Boilerplate for Webpack Applications | :link: [Repo](https://github.com/sidneyshafer/webpack-starter) |
 | | Sharing Ideas | A full stack web application designed for sharing information. <br>Built with HTML, CSS, JavaScript, Node.js, Webpack on the client side and Express REST API connected to MongoDB on the server side. | :link: [Repo](https://github.com/sidneyshafer/sharing-ideas-app) |
