@@ -17,7 +17,7 @@
 | :orange_circle: | Tindog | A play on "Tinder", this static and responsive webpage is built with HTML, Bootstrap, and customized CSS styles. | :link: [Repo](https://github.com/sidneyshafer/tindog)<br>:link: [Demo](https://sidneyshafer.github.io/tindog/) |
 | :orange_circle: | Hotel | A static and responsive website built with HTML and CSS to display hotel information. | :link: [Repo](https://github.com/sidneyshafer/hotel-website)<br>:link: [Demo](https://sidneyshafer.github.io/hotel-website/) |
 | :orange_circle: | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/newsgrid-website/) |
-| :orange_circle: | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
+| :orange_circle: | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/tech-store)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
 | **React** |
 | :pencil2: | React Guide | A complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
 | :orange_circle: :green_circle: | React Starter Template | Starter template for creating React applications. | :link: [Repo](https://github.com/sidneyshafer/react-starter-template) |
