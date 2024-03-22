@@ -23,6 +23,7 @@
 | :pencil2: | React Guide | A complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
 | :orange_circle: :green_circle: | React Starter Template | Starter template for creating React applications. | :link: [Repo](https://github.com/sidneyshafer/react-starter-template) |
 | :orange_circle: | Expense Tracker | A component-based expense tracking application using React and CSS module styling. | :link: [Repo](https://github.com/sidneyshafer/expense-tracker)<br>:link: [Demo](https://cosmic-chebakia-644d50.netlify.app/) |
+| :orange_circle: | Add User | A front-end React application for adding new users to a list. | :link: [Repo](https://github.com/sidneyshafer/add-user-project)<br>:link: [Demo](https://melodic-capybara-c2f903.netlify.app/) |
 | :orange_circle: | Todo List | A React application for adding todos to a list. | :link: [Repo](https://github.com/sidneyshafer/todo-list)<br>:link: [Demo](https://funny-paletas-5452e6.netlify.app/) |
 | **.NET** |
 | :orange_circle: | Conversions | A Windows Form Application built with C# to calculate conversions. | :link: [Repo](https://github.com/sidneyshafer/conversions) |
