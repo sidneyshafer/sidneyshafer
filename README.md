@@ -10,7 +10,7 @@
 | :sparkler: Category | :rocket: Project | :left_speech_bubble: Description | :link: Repo/Demo |
 | -------|---------|-------------|------|
 | **Web Projects** |
-| :orange_circle: | Mini Web Widgets | A collection of 60+ web widgets built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
+| :orange_circle: | Web Widgets & Projects | A collection of 60+ web widgets and mini projects built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
 | :orange_circle: :green_circle: | Webpage Designs | A collection of static and responsive single-page projects, templates, and starter projects built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/webpage-projects) |
 | :orange_circle: :green_circle: | Webpack Starter | Boilerplate for Webpack Applications | :link: [Repo](https://github.com/sidneyshafer/webpack-starter) |
 | :orange_circle: | Sharing Ideas | A full stack web application designed for sharing information. <br>Built with HTML, CSS, JavaScript, and Webpack on the client side with a Node.js/Express REST API connected to MongoDB on the server side. | :link: [Repo](https://github.com/sidneyshafer/sharing-ideas-app) |
