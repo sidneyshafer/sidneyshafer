@@ -30,8 +30,8 @@
 | :orange_circle: | Pizza Order | A Windows Form Application built with C# that incorporates user input controls and performs calculations to mimic a pizza order app. | :link: [Repo](https://github.com/sidneyshafer/pizza-order-app) |
 | :orange_circle: | Calculator | A mobile calculator application built for iOS and Android devices using C#, Xamarin.Forms, XAML pages, and data binding. | :link: [Repo](https://github.com/sidneyshafer/calculator) |
 | :orange_circle: | Phoneword | A multi-platform .NET MAUI application for dialing phone numbers. | :link: [Repo](https://github.com/sidneyshafer/Phoneword) |
-| :orange_circle: | BlackJack | An ASP.NET MVC web application for playing a game of Blackjack. | :link: [Repo](https://github.com/sidneyshafer/Blackjack) |
-| :orange_circle: | Bloggie | An ASP.NET MVC Core web application for displaying and creating blog posts. | :link: [Repo](https://github.com/sidneyshafer/Bloggie) |
+| :orange_circle: | BlackJack | An ASP.NET Core MVC web application for playing a game of Blackjack. | :link: [Repo](https://github.com/sidneyshafer/Blackjack) |
+| :orange_circle: | Bloggie | An ASP.NET Core MVC web application for displaying and creating blog posts. | :link: [Repo](https://github.com/sidneyshafer/Bloggie) |
 | :orange_circle: | Tic-Tac-Toe | A console application built with C# to play a game of Tic-Tac-Toe. | :link: [Repo](https://github.com/sidneyshafer/tic-tac-toe) |
 | **Machine Learning/AI** |
 | :orange_circle: | Zumi Obstacle Classification | A Machine Learning project with Python in Jupyter Notebook that instructs a Zumi robot to classify objects using k-NN and Logistic Regression algorithms. | :link: [Repo](https://github.com/sidneyshafer/zumi-project) |
