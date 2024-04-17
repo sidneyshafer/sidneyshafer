@@ -30,6 +30,7 @@
 | :orange_circle: | Conversions | A Windows Form Application built with C# to calculate conversions. | :link: [Repo](https://github.com/sidneyshafer/conversions) |
 | :orange_circle: | Pizza Order | A Windows Form Application built with C# that incorporates user input controls and performs calculations to mimic a pizza order app. | :link: [Repo](https://github.com/sidneyshafer/pizza-order-app) |
 | :orange_circle: | Calculator | A mobile calculator application built for iOS and Android devices using C#, Xamarin.Forms, XAML pages, and data binding. | :link: [Repo](https://github.com/sidneyshafer/calculator) |
+| :orange_circle: | BlackJack | An ASP.NET MVC web application for playing a game of Blackjack. | :link: [Repo](https://github.com/sidneyshafer/Blackjack) |
 | :orange_circle: | Bloggie | An ASP.NET MVC Core web application for displaying and creating blog posts. | :link: [Repo](https://github.com/sidneyshafer/Bloggie) |
 | :orange_circle: | Tic-Tac-Toe | A console application built with C# to play a game of Tic-Tac-Toe. | :link: [Repo](https://github.com/sidneyshafer/tic-tac-toe) |
 | **Machine Learning/AI** |
