@@ -26,10 +26,10 @@
 | :orange_circle: | Add User | A front-end React application for adding new users to a list. | :link: [Repo](https://github.com/sidneyshafer/add-user-project)<br>:link: [Demo](https://melodic-capybara-c2f903.netlify.app/) |
 | :orange_circle: | Todo List | A React application for adding todos to a list. | :link: [Repo](https://github.com/sidneyshafer/todo-list)<br>:link: [Demo](https://funny-paletas-5452e6.netlify.app/) |
 | **.NET** |
+| :orange_circle: :pencil2: | DI Demo | A dependency injection demo project using .NET 5 (.NET Core). | :link: [Repo](https://github.com/sidneyshafer/DI_Demo) |
 | :orange_circle: | Conversions | A Windows Form Application built with C# to calculate conversions. | :link: [Repo](https://github.com/sidneyshafer/conversions) |
 | :orange_circle: | Pizza Order | A Windows Form Application built with C# that incorporates user input controls and performs calculations to mimic a pizza order app. | :link: [Repo](https://github.com/sidneyshafer/pizza-order-app) |
 | :orange_circle: | Calculator | A mobile calculator application built for iOS and Android devices using C#, Xamarin.Forms, XAML pages, and data binding. | :link: [Repo](https://github.com/sidneyshafer/calculator) |
-| :orange_circle: :pencil2: | DI Demo | A dependency injection demo project using .NET 5 (.NET Core). | :link: [Repo](https://github.com/sidneyshafer/DI_Demo) |
 | :orange_circle: | Phoneword | A multi-platform .NET MAUI application for dialing phone numbers. | :link: [Repo](https://github.com/sidneyshafer/Phoneword) |
 | :orange_circle: | BlackJack | An ASP.NET Core MVC web application for playing a game of Blackjack. | :link: [Repo](https://github.com/sidneyshafer/Blackjack) |
 | :orange_circle: | Bloggie | An ASP.NET Core MVC web application for displaying and creating blog posts. | :link: [Repo](https://github.com/sidneyshafer/Bloggie) |
