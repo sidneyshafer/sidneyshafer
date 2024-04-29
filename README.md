@@ -27,6 +27,7 @@
 | :orange_circle: | Todo List | A React application for adding todos to a list. | :link: [Repo](https://github.com/sidneyshafer/todo-list)<br>:link: [Demo](https://funny-paletas-5452e6.netlify.app/) |
 | **.NET** |
 | :orange_circle: :pencil2: | DI Demo | A dependency injection demo project using .NET 5 (.NET Core). | :link: [Repo](https://github.com/sidneyshafer/DI_Demo) |
+| :orange_circle: :pencil2: | EF Core Demo | A demo project on Entity Framework Core using .NET 7. | :link: [Repo](https://github.com/sidneyshafer/EFCore_Demo) |
 | :orange_circle: | Conversions | A Windows Form Application built with C# to calculate conversions. | :link: [Repo](https://github.com/sidneyshafer/conversions) |
 | :orange_circle: | Pizza Order | A Windows Form Application built with C# that incorporates user input controls and performs calculations to mimic a pizza order app. | :link: [Repo](https://github.com/sidneyshafer/pizza-order-app) |
 | :orange_circle: | Calculator | A mobile calculator application built for iOS and Android devices using C#, Xamarin.Forms, XAML pages, and data binding. | :link: [Repo](https://github.com/sidneyshafer/calculator) |
