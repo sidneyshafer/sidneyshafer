@@ -30,7 +30,7 @@
 | :orange_circle: :pencil2: | EF Core Demo | A demo project on Entity Framework Core using .NET 7. | :link: [Repo](https://github.com/sidneyshafer/EFCore_Demo) |
 | :orange_circle: | Conversions | A Windows Form Application on .NET 4.7 Framework that incorporates user input controls and performs metric conversion calculations. | :link: [Repo](https://github.com/sidneyshafer/conversions) |
 | :orange_circle: | Pizza Order | A Windows Form Application built with C# that incorporates user input controls and performs calculations to mimic a pizza order app. | :link: [Repo](https://github.com/sidneyshafer/pizza-order-app) |
-| :orange_circle: | Calculator | A calculator application for iOS and Android devices to perform addition, subtraction, multiplication, and division calculations using C#, .NET Standard 2.0, Xamarin.Forms 5.0, and XAML. | :link: [Repo](https://github.com/sidneyshafer/calculator) |
+| :orange_circle: | Calculator | A calculator application for iOS and Android devices using C#, .NET Standard 2.0, Xamarin.Forms 5.0, and XAML. | :link: [Repo](https://github.com/sidneyshafer/calculator) |
 | :orange_circle: | Phoneword | A multi-platform .NET MAUI application on .NET 8 Runtime using C# and XAML that implements phone dial functionality on Android devices. | :link: [Repo](https://github.com/sidneyshafer/Phoneword) |
 | :orange_circle: | BlackJack | An ASP.NET Core MVC Web Application targeting .NET 6.0 and using C#, views, view controllers, and tag helpers to play a game of Blackjack in a web browser. | :link: [Repo](https://github.com/sidneyshafer/Blackjack) |
 | :orange_circle: | Bloggie | An ASP.NET Core MVC web application for displaying and creating blog posts. | :link: [Repo](https://github.com/sidneyshafer/Bloggie) |
