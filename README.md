@@ -20,7 +20,7 @@
 | :orange_circle: | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/newsgrid-website/) |
 | :orange_circle: | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/tech-store)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
 | **React** |
-| :pencil2: | React Guide | A complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
+| :large_blue_circle: :pencil2: | React Guide | A complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
 | :orange_circle: :green_circle: | React Starter Template | Starter template for creating React applications. | :link: [Repo](https://github.com/sidneyshafer/react-starter-template) |
 | :orange_circle: | Expense Tracker | A component-based expense tracking application using React and CSS module styling, allowing users to add and filter expenses. | :link: [Repo](https://github.com/sidneyshafer/expense-tracker)<br>:link: [Demo](https://cosmic-chebakia-644d50.netlify.app/) |
 | :orange_circle: | Food Order App | A front-end React application for adding food itmes to an online cart. | :link: [Repo](https://github.com/sidneyshafer/food-order-app)<br>:link: [Demo](https://jocular-croissant-61f235.netlify.app/) |
