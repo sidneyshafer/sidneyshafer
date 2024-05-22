@@ -4,6 +4,7 @@
 
 * :orange_circle: - Applications
 * :green_circle: - Project Starters
+* :large_blue_circle: - Code Snippets
 * :pencil2: - Guides & Other Resources
 * :link: - Links
 
@@ -40,15 +41,15 @@
 | **Java** |
 | :orange_circle: | Hangman | A Java app for playing hangman. | :link: [Repo](https://github.com/sidneyshafer/hangman) |
 | **Sandboxes** |
-| :pencil2: | HTML | Programming files/projects for learning the basics of HTML. | :link: [Repo](https://github.com/sidneyshafer/html-sandbox) |
-| :pencil2: | CSS | Programming files/projects for learning the basics of CSS. | :link: [Repo #1](https://github.com/sidneyshafer/css-sandbox)<br>:link: [Repo #2](https://github.com/sidneyshafer/css-sandbox) |
-| :pencil2: | CSS Grid | Programming files/projects for learning the basics of CSS Grid. | :link: [Repo](https://github.com/sidneyshafer/grid-sandbox) |
-| :pencil2: | SASS | Programming files/projects for learning the basics of SASS (Syntactically Awesome Style Sheets). | :link: [Repo](https://github.com/sidneyshafer/sass-sandbox) |
-| :pencil2: | JavaScript | Programming files/projects for learning the basics of JavaScript. | :link: [Repo](https://github.com/sidneyshafer/javascript-sandbox) |
-| :pencil2: | C# | Programming files/projects for learning .NET and C#. | :link: [Repo](https://github.com/sidneyshafer/c-sharp-sandbox) |
-| :pencil2: | Python | Programming files/projects for learning basic and advanced Python concepts. | :link: [Repo #1](https://github.com/sidneyshafer/python-pro-bootcamp)<br>:link: [Repo #2](https://github.com/sidneyshafer/python-bootcamp)<br>:link: [Repo #3](https://github.com/sidneyshafer/python-fundamentals) |
-| :pencil2: | Java | Programming files/projects for learning the basics of Java. | :link: [Repo](https://github.com/sidneyshafer/java-sandbox) |
+| :large_blue_circle: | HTML | Programming files/projects for learning the basics of HTML. | :link: [Repo](https://github.com/sidneyshafer/html-sandbox) |
+| :large_blue_circle: | CSS | Programming files/projects for learning the basics of CSS. | :link: [Repo #1](https://github.com/sidneyshafer/css-sandbox)<br>:link: [Repo #2](https://github.com/sidneyshafer/css-sandbox) |
+| :large_blue_circle: | CSS Grid | Programming files/projects for learning the basics of CSS Grid. | :link: [Repo](https://github.com/sidneyshafer/grid-sandbox) |
+| :large_blue_circle: | SASS | Programming files/projects for learning the basics of SASS (Syntactically Awesome Style Sheets). | :link: [Repo](https://github.com/sidneyshafer/sass-sandbox) |
+| :large_blue_circle: | JavaScript | Programming files/projects for learning the basics of JavaScript. | :link: [Repo](https://github.com/sidneyshafer/javascript-sandbox) |
+| :large_blue_circle: | C# | Programming files/projects for learning .NET and C#. | :link: [Repo](https://github.com/sidneyshafer/c-sharp-sandbox) |
+| :large_blue_circle: | Python | Programming files/projects for learning basic and advanced Python concepts. | :link: [Repo #1](https://github.com/sidneyshafer/python-pro-bootcamp)<br>:link: [Repo #2](https://github.com/sidneyshafer/python-bootcamp)<br>:link: [Repo #3](https://github.com/sidneyshafer/python-fundamentals) |
+| :large_blue_circle: | Java | Programming files/projects for learning the basics of Java. | :link: [Repo](https://github.com/sidneyshafer/java-sandbox) |
 | **Other Resources** |
-| :pencil2: | JS_DSA | JavaScript data structures and algorithms notes and code examples. | :link: [Repo](https://github.com/sidneyshafer/JS_DSA) |
+| :large_blue_circle: :pencil2: | JS_DSA | JavaScript data structures and algorithms notes and code examples. | :link: [Repo](https://github.com/sidneyshafer/JS_DSA) |
 
 :copyright: Copyright 2024 Sidney Shafer 
