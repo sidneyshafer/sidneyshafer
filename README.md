@@ -48,5 +48,7 @@
 | :pencil2: | C# | Programming files/projects for learning .NET and C#. | :link: [Repo](https://github.com/sidneyshafer/c-sharp-sandbox) |
 | :pencil2: | Python | Programming files/projects for learning basic and advanced Python concepts. | :link: [Repo #1](https://github.com/sidneyshafer/python-pro-bootcamp)<br>:link: [Repo #2](https://github.com/sidneyshafer/python-bootcamp)<br>:link: [Repo #3](https://github.com/sidneyshafer/python-fundamentals) |
 | :pencil2: | Java | Programming files/projects for learning the basics of Java. | :link: [Repo](https://github.com/sidneyshafer/java-sandbox) |
+| **Other Resources** |
+| :pencil2: | JS_DSA | JavaScript data structures and algorithms notes and code examples. | :link: [Repo](https://github.com/sidneyshafer/JS_DSA) |
 
 :copyright: Copyright 2024 Sidney Shafer 
