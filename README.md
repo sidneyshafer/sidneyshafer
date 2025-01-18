@@ -12,6 +12,7 @@
 | -------|---------|-------------|------|
 | **Web Projects** |
 | :orange_circle: :green_circle: | Web Widgets & Projects | ⭐ A collection of 70+ web widgets, mini projects, and responsive single-page applications built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
+| :orange_circle: | Photo Gallery - By Sidney Shafer | ⭐ Online gallery showcasing photography work created by Sidney Shafer. Current site is live on **[GitHub Pages](https://sidneyshafer.github.io/photo-gallery/)**. | :link: [Repo](https://github.com/sidneyshafer/photo-gallery)<br>:link: [Demo](https://sidneyshafer.github.io/photo-gallery/) |
 | :orange_circle: :green_circle: | Webpack Starter | Boilerplate for Webpack Applications | :link: [Repo](https://github.com/sidneyshafer/webpack-starter) |
 | :orange_circle: | Sharing Ideas | A full stack web application for sharing information between multiple users. Built with HTML, CSS, JavaScript, and Webpack on the client side, and a Node.js/Express REST API that connects to MongoDB on the server side. | :link: [Repo](https://github.com/sidneyshafer/sharing-ideas-app) |
 | :orange_circle: | Calorie Tracker | A Webpack application using Bootstrap and custom CSS styles to tracks calories, meals, and workouts. | :link: [Repo](https://github.com/sidneyshafer/calorie-tracker-webpack)<br>:link: [Demo](https://fastidious-taiyaki-3f705a.netlify.app/) |
