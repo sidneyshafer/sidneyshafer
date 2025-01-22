@@ -13,6 +13,8 @@
 | **Web Projects** |
 | :orange_circle: :green_circle: | Web Widgets & Projects | ⭐ A collection of 70+ web widgets, mini projects, and responsive single-page applications built with HTML, CSS, and JavaScript. | :link: [Repo](https://github.com/sidneyshafer/mini-web-projects) |
 | :orange_circle: | Photo Gallery - By Sidney Shafer | ⭐ Online gallery showcasing photography work created by Sidney Shafer. Current site is live on **[GitHub Pages](https://sidneyshafer.github.io/photo-gallery/)**. | :link: [Repo](https://github.com/sidneyshafer/photo-gallery)<br>:link: [Demo](https://sidneyshafer.github.io/photo-gallery/) |
+| :large_blue_circle: :pencil2: | JS_DSA | JavaScript data structures and algorithms notes and code examples. | :link: [Repo](https://github.com/sidneyshafer/JS_DSA) |
+| :large_blue_circle: :pencil2: | TypeScript | 🚀 Getting started with TypeScript basics. | :link: [Repo](https://github.com/sidneyshafer/TypeScript) |
 | :orange_circle: :green_circle: | Webpack Starter | Boilerplate for Webpack Applications | :link: [Repo](https://github.com/sidneyshafer/webpack-starter) |
 | :orange_circle: | Sharing Ideas | A full stack web application for sharing information between multiple users. Built with HTML, CSS, JavaScript, and Webpack on the client side, and a Node.js/Express REST API that connects to MongoDB on the server side. | :link: [Repo](https://github.com/sidneyshafer/sharing-ideas-app) |
 | :orange_circle: | Calorie Tracker | A Webpack application using Bootstrap and custom CSS styles to tracks calories, meals, and workouts. | :link: [Repo](https://github.com/sidneyshafer/calorie-tracker-webpack)<br>:link: [Demo](https://fastidious-taiyaki-3f705a.netlify.app/) |
@@ -20,9 +22,6 @@
 | :orange_circle: | Hotel | A static and responsive website built with HTML and CSS to display hotel information. | :link: [Repo](https://github.com/sidneyshafer/hotel-website)<br>:link: [Demo](https://sidneyshafer.github.io/hotel-website/) |
 | :orange_circle: | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/newsgrid-website/) |
 | :orange_circle: | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/tech-store)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
-|                 |:rocket: **Other Web Projects/Resources** | |
-| :large_blue_circle: :pencil2: | JS_DSA | JavaScript data structures and algorithms notes and code examples. | :link: [Repo](https://github.com/sidneyshafer/JS_DSA) |
-| :large_blue_circle: :pencil2: | TypeScript | 🚀 Getting started with TypeScript basics. | :link: [Repo](https://github.com/sidneyshafer/TypeScript) |
 | | | | |
 | **React** |
 | :large_blue_circle: :pencil2: | React Guide | A complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
@@ -31,6 +30,7 @@
 | :orange_circle: | Food Order App | A front-end React application for adding food itmes to an online cart. | :link: [Repo](https://github.com/sidneyshafer/food-order-app)<br>:link: [Demo](https://jocular-croissant-61f235.netlify.app/) |
 | :orange_circle: | Add User | A front-end React application for adding new users to a list. | :link: [Repo](https://github.com/sidneyshafer/add-user-project)<br>:link: [Demo](https://melodic-capybara-c2f903.netlify.app/) |
 | :orange_circle: | Todo List | A React application for adding todos to a list. | :link: [Repo](https://github.com/sidneyshafer/todo-list)<br>:link: [Demo](https://funny-paletas-5452e6.netlify.app/) |
+| | | | |
 | **.NET** |
 | :orange_circle: :pencil2: | DI Demo | A dependency injection demo project using .NET 5 (.NET Core). | :link: [Repo](https://github.com/sidneyshafer/DI_Demo) |
 | :orange_circle: :pencil2: | EF Core Demo | A demo project on Entity Framework Core using .NET 7. | :link: [Repo](https://github.com/sidneyshafer/EFCore_Demo) |
@@ -41,10 +41,13 @@
 | :orange_circle: | BlackJack | An ASP.NET Core MVC Web Application targeting .NET 6.0 and using C#, views, view controllers, and tag helpers to play a game of Blackjack in a web browser. | :link: [Repo](https://github.com/sidneyshafer/Blackjack) |
 | :orange_circle: | Bloggie | An ASP.NET Core MVC web application for displaying and creating blog posts. | :link: [Repo](https://github.com/sidneyshafer/Bloggie) |
 | :orange_circle: | Tic-Tac-Toe | A console application built with C# to play a game of Tic-Tac-Toe. | :link: [Repo](https://github.com/sidneyshafer/tic-tac-toe) |
+| | | | |
 | **Machine Learning/AI** |
 | :orange_circle: | Zumi Obstacle Classification | A Python Machine Learning project in Jupyter Notebook that uses k-NN and Logistic Regression algorithms and instructs a Zumi robot to classify objects. | :link: [Repo](https://github.com/sidneyshafer/zumi-project) |
+| | | | |
 | **Java** |
 | :orange_circle: | Hangman | A Java app for playing hangman. | :link: [Repo](https://github.com/sidneyshafer/hangman) |
+| | | | |
 | **Sandboxes** |
 | :large_blue_circle: | HTML | Programming files/projects for learning the basics of HTML. | :link: [Repo](https://github.com/sidneyshafer/html-sandbox) |
 | :large_blue_circle: | CSS | Programming files/projects for learning the basics of CSS. | :link: [Repo #1](https://github.com/sidneyshafer/css-sandbox)<br>:link: [Repo #2](https://github.com/sidneyshafer/css-sandbox) |
