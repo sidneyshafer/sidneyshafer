@@ -20,6 +20,9 @@
 | :orange_circle: | Hotel | A static and responsive website built with HTML and CSS to display hotel information. | :link: [Repo](https://github.com/sidneyshafer/hotel-website)<br>:link: [Demo](https://sidneyshafer.github.io/hotel-website/) |
 | :orange_circle: | NewsGrid | A static and responisve front-end website built with HTML and CSS to display news articles. | :link: [Repo](https://github.com/sidneyshafer/newsgrid-website)<br>:link: [Demo](https://sidneyshafer.github.io/newsgrid-website/) |
 | :orange_circle: | Tech Store | A static website built with HTML and CSS to display technology products in an online store. | :link: [Repo](https://github.com/sidneyshafer/tech-store)<br>:link: [Demo](https://sidneyshafer.github.io/tech-store/) |
+| -------|:rocket: **Other Web Projects/Resources**|-------------|------|
+| :large_blue_circle: :pencil2: | JS_DSA | JavaScript data structures and algorithms notes and code examples. | :link: [Repo](https://github.com/sidneyshafer/JS_DSA) |
+| :large_blue_circle: :pencil2: | TypeScript | 🚀 Getting started with TypeScript basics. | :link: [Repo](https://github.com/sidneyshafer/TypeScript) |
 | **React** |
 | :large_blue_circle: :pencil2: | React Guide | A complete React guide | :link: [Repo](https://github.com/sidneyshafer/complete-react-guide) |
 | :orange_circle: :green_circle: | React Starter Template | Starter template for creating React applications. | :link: [Repo](https://github.com/sidneyshafer/react-starter-template) |
@@ -50,7 +53,5 @@
 | :large_blue_circle: | C# | Programming files/projects for learning .NET and C#. | :link: [Repo](https://github.com/sidneyshafer/c-sharp-sandbox) |
 | :large_blue_circle: | Python | Programming files/projects for learning basic and advanced Python concepts. | :link: [Repo #1](https://github.com/sidneyshafer/python-pro-bootcamp)<br>:link: [Repo #2](https://github.com/sidneyshafer/python-bootcamp)<br>:link: [Repo #3](https://github.com/sidneyshafer/python-fundamentals) |
 | :large_blue_circle: | Java | Programming files/projects for learning the basics of Java. | :link: [Repo](https://github.com/sidneyshafer/java-sandbox) |
-| **Other Resources** |
-| :large_blue_circle: :pencil2: | JS_DSA | JavaScript data structures and algorithms notes and code examples. | :link: [Repo](https://github.com/sidneyshafer/JS_DSA) |
 
 :copyright: Copyright 2024 Sidney Shafer 
