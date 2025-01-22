@@ -1,22 +1,22 @@
-| :rocket: **WEB PROJECTS** | :star: **REACT** | **SANDBOXES** |
+| :rocket: **WEB PROJECTS** | :star2: **REACT** | :notebook: **.NET** |
 | ------------------------- | ---------------- | -------------- |
-| [Web Widgets & Mini Projects](https://github.com/sidneyshafer/mini-web-projects) | [React Guide](https://github.com/sidneyshafer/complete-react-guide) | [HTML](https://github.com/sidneyshafer/html-sandbox) |
-| [Sharing Ideas](https://github.com/sidneyshafer/sharing-ideas-app) | [React Starter Template](https://github.com/sidneyshafer/react-starter-template) | [CSS - Part 1](https://github.com/sidneyshafer/css-sandbox) |
-| [Webpack Starter](https://github.com/sidneyshafer/webpack-starter) | [Expense Tracker](https://github.com/sidneyshafer/expense-tracker) | [CSS - Part 2](https://github.com/sidneyshafer/css-sandbox2) |
-| [Calorie Tracker](https://github.com/sidneyshafer/calorie-tracker-webpack) | [Food Order App](https://github.com/sidneyshafer/food-order-app) | [CSS Grid](https://github.com/sidneyshafer/grid-sandbox) |
-| [Tindog](https://github.com/sidneyshafer/tindog) | [Add User](https://github.com/sidneyshafer/add-user-project) | [SASS](https://github.com/sidneyshafer/sass-sandbox) |
-| [Hotel Website](https://github.com/sidneyshafer/hotel-website) | [Todo List](https://github.com/sidneyshafer/todo-list) | [JavaScript](https://github.com/sidneyshafer/javascript-sandbox) |
-| [NewsGrid](https://github.com/sidneyshafer/newsgrid-website) | [Web Scraping Concepts](https://github.com/sidneyshafer/web-scraping-react-project)  | [C#](https://github.com/sidneyshafer/c-sharp-sandbox) |
-| [Photo Gallery](https://github.com/sidneyshafer/photo-gallery) |  | [Python - Repo 1](https://github.com/sidneyshafer/python-pro-bootcamp) |
-| [Tech Store](https://github.com/sidneyshafer/tech-store) |  | [Python - Repo 2](https://github.com/sidneyshafer/python-bootcamp) |
-|  |  | [Python - Repo 3](https://github.com/sidneyshafer/python-fundamentals) |
-|  |  | [Java](https://github.com/sidneyshafer/java-sandbox) |
+| [Web Widgets & Mini Projects](https://github.com/sidneyshafer/mini-web-projects) :orange_circle: :green_circle: :construction: | [React Guide](https://github.com/sidneyshafer/complete-react-guide) :large_blue_circle: :pencil2: | [DI Demo](https://github.com/sidneyshafer/DI_Demo) :orange_circle: :pencil2: |
+| [Sharing Ideas](https://github.com/sidneyshafer/sharing-ideas-app) :orange_circle: | [React Starter Template](https://github.com/sidneyshafer/react-starter-template) :orange_circle: :green_circle: | [EF Core Demo](https://github.com/sidneyshafer/EFCore_Demo) :orange_circle: :pencil2: |
+| [Webpack Starter](https://github.com/sidneyshafer/webpack-starter) :orange_circle: :green_circle: | [Expense Tracker](https://github.com/sidneyshafer/expense-tracker) :orange_circle: | [Conversions](https://github.com/sidneyshafer/conversions) :orange_circle: |
+| [Calorie Tracker](https://github.com/sidneyshafer/calorie-tracker-webpack) :orange_circle: | [Food Order App](https://github.com/sidneyshafer/food-order-app) :orange_circle: | [Pizza Order](https://github.com/sidneyshafer/pizza-order-app) :orange_circle: |
+| [Tindog](https://github.com/sidneyshafer/tindog) :orange_circle: | [Add User](https://github.com/sidneyshafer/add-user-project) :orange_circle: | [Calculator](https://github.com/sidneyshafer/calculator) :orange_circle: |
+| [Hotel Website](https://github.com/sidneyshafer/hotel-website) :orange_circle: | [Todo List](https://github.com/sidneyshafer/todo-list) :orange_circle: | [Phoneword](https://github.com/sidneyshafer/Phoneword) :orange_circle: |
+| [NewsGrid](https://github.com/sidneyshafer/newsgrid-website) :orange_circle: | [Web Scraping Concepts](https://github.com/sidneyshafer/web-scraping-react-project) :orange_circle:  | [BlackJack](https://github.com/sidneyshafer/Blackjack) :orange_circle: |
+| [Photo Gallery](https://github.com/sidneyshafer/photo-gallery) :orange_circle: |  | [Bloggie](https://github.com/sidneyshafer/Bloggie) :orange_circle: |
+| [Tech Store](https://github.com/sidneyshafer/tech-store) :orange_circle: |  | [Tic-Tac-Toe](https://github.com/sidneyshafer/tic-tac-toe) :orange_circle: |
 | | | |
-| **.NET** | **MACHINE LEARNING/AI** | **JAVA** |
-| [DI Demo](https://github.com/sidneyshafer/DI_Demo) | [Zumi Obstacle Classification](https://github.com/sidneyshafer/zumi-project) | [Hangman Game](https://github.com/sidneyshafer/hangman) |
+| :boom: **TYPESCRIPT** | :sparkles: **JAVASCRIPT** | :bomb: **JAVA** |
+| [TypeScript](https://github.com/sidneyshafer/TypeScript) :large_blue_circle: :pencil2: :construction: | [JavaScript Data Structures & Algorithms](https://github.com/sidneyshafer/JS_DSA) :large_blue_circle: :pencil2: | [Hangman Game](https://github.com/sidneyshafer/hangman) :orange_circle: |
 | | | |
-| **TYPESCRIPT** | **OTHER RESOURCES** | **ACHIEVEMENTS** |
+| :wrench: **MACHINE LEARNING/AI** | :pushpin: **OTHER RESOURCES** | :trumpet: **ACHIEVEMENTS** |
 | | | |
-| [TypeScript](https://github.com/sidneyshafer/TypeScript) | [JavaScript Data Structures & Algorithms](https://github.com/sidneyshafer/JS_DSA) | :crown: [Achievements, Certifications, and Awards](https://github.com/sidneyshafer/Achievements) |
+| | [Zumi Obstacle Classification](https://github.com/sidneyshafer/zumi-project) :orange_circle: | [Sandboxes]() | :crown: [Achievements, Certifications, and Awards](https://github.com/sidneyshafer/Achievements) |
+
+:orange_circle: - Applications, :green_circle: - Project Starters, :large_blue_circle: - Code Snippets, :pencil2: - Guides & Other Resources, :construction: - On-going/Work in Progress
 
 :copyright: Copyright 2020 Sidney Shafer
