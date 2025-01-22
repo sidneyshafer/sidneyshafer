@@ -1,5 +1,5 @@
 | :rocket: **WEB PROJECTS** | :star: **REACT** | **TYPESCRIPT** |
-| | | |
+| ------------------------- | ---------------- | -------------- |
 | [Web Widgets & Mini Projects](https://github.com/sidneyshafer/mini-web-projects) | [React Guide](https://github.com/sidneyshafer/complete-react-guide) | [TypeScript](https://github.com/sidneyshafer/TypeScript) |
 | [Sharing Ideas](https://github.com/sidneyshafer/sharing-ideas-app) | [React Starter Template](https://github.com/sidneyshafer/react-starter-template) |  |
 | [Webpack Starter](https://github.com/sidneyshafer/webpack-starter) | [Expense Tracker](https://github.com/sidneyshafer/expense-tracker) |  |
