@@ -17,6 +17,6 @@
 | | | |
 | [Zumi Obstacle Classification](https://github.com/sidneyshafer/zumi-project) :orange_circle: | [Sandboxes](https://github.com/sidneyshafer/Sandboxes) :large_blue_circle: :pencil2: | :crown: [Achievements, Certifications, and Awards](https://github.com/sidneyshafer/Achievements) |
 
-:orange_circle: Applications        :green_circle: Project Starters     :large_blue_circle: Code Snippets       :pencil2: Guides & Other Resources          :construction: On-going/Work in Progress
+:orange_circle: Applications &nbsp; &nbsp; :green_circle: Project Starters &nbsp; &nbsp; :large_blue_circle: Code Snippets &nbsp; &nbsp; :pencil2: Guides & Other Resources &nbsp; &nbsp; :construction: On-going/Work in Progress
 
 :copyright: Copyright 2020 Sidney Shafer
