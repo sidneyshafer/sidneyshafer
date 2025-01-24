@@ -15,7 +15,7 @@
 | | | |
 | :wrench: **MACHINE LEARNING/AI** | :pushpin: **OTHER RESOURCES** | :trumpet: **ACHIEVEMENTS** |
 | | | |
-| [Zumi Obstacle Classification](https://github.com/sidneyshafer/zumi-project) :orange_circle: | [Sandboxes](https://github.com/sidneyshafer/Sandboxes) :large_blue_circle: :pencil2: | :crown: [Achievements, Certifications, and Awards](https://github.com/sidneyshafer/Achievements) |
+| [Zumi Obstacle Classification](https://github.com/sidneyshafer/zumi-project) :orange_circle: | [Sandboxes](https://gist.github.com/sidneyshafer/15d0f36c19abbba1293b1ec31bcefa12) :large_blue_circle: :pencil2: | :crown: [Achievements, Certifications, and Awards](https://github.com/sidneyshafer/Achievements) |
 
 :orange_circle: Applications &nbsp; &nbsp; :green_circle: Project Starters &nbsp; &nbsp; :large_blue_circle: Code Snippets &nbsp; &nbsp; :pencil2: Guides & Other Resources &nbsp; &nbsp; :construction: On-going/Work in Progress
 
