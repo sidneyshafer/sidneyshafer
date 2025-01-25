@@ -13,7 +13,7 @@
 | :boom: **TYPESCRIPT** | :sparkles: **JAVASCRIPT** | :bomb: **JAVA** |
 | [TypeScript](https://github.com/sidneyshafer/TypeScript) :large_blue_circle: :pencil2: :construction: | [JavaScript Data Structures & Algorithms](https://github.com/sidneyshafer/JS_DSA) :large_blue_circle: :pencil2: | [Hangman Game](https://github.com/sidneyshafer/hangman) :orange_circle: |
 | | | |
-| :wrench: **MACHINE LEARNING/AI** | :pushpin: **OTHER RESOURCES** | :trumpet: **ACHIEVEMENTS** |
+| :wrench: **PYTHON** | :pushpin: **OTHER RESOURCES** | :trumpet: **ACHIEVEMENTS** |
 | | | |
 | [Zumi Obstacle Classification](https://github.com/sidneyshafer/zumi-project) :orange_circle: | [Sandboxes](https://gist.github.com/sidneyshafer/15d0f36c19abbba1293b1ec31bcefa12) :large_blue_circle: :pencil2: | :crown: [Achievements, Certifications, and Awards](https://github.com/sidneyshafer/Achievements) |
 
