@@ -13,8 +13,8 @@
 | | | |
 | :dizzy: **HTML & CSS** | :sparkles: **JAVASCRIPT** | :bomb: **TYPESCRIPT** |
 | [Guide to HTML5](https://github.com/sidneyshafer/html-guide) :large_blue_circle: :pencil2: | [Guide to JavaScript (ES6)](https://github.com/sidneyshafer/javascript-sandbox) :large_blue_circle: | [Guide to Learning TypeScript](https://github.com/sidneyshafer/TypeScript) :large_blue_circle: :pencil2: |
-| [Guide to CSS3](https://github.com/sidneyshafer/css-guide) :large_blue_circle: :pencil2: | [JavaScript Data Structures & Algorithms](https://github.com/sidneyshafer/JS_DSA) :large_blue_circle: :pencil2: | [Form Validation](https://github.com/sidneyshafer/form-validation-typescript) :large_blue_circle: |
-| [More Advanced CSS3](https://github.com/sidneyshafer/css-guide-2) :large_blue_circle: | | |
+| [Guide to CSS3](https://github.com/sidneyshafer/css-guide) :large_blue_circle: :pencil2: | [JavaScript Data Structures & Algorithms](https://github.com/sidneyshafer/JS_DSA) :large_blue_circle: :pencil2: | [Form Validation](https://github.com/sidneyshafer/form-validation-typescript) :orange_circle: |
+| [More Advanced CSS3](https://github.com/sidneyshafer/css-guide-2) :large_blue_circle: | | [Drag and Drop Project](https://github.com/sidneyshafer/drag-drop-project) :orange_circle: |
 | | | |
 | :wrench: **PYTHON** | :pushpin: **JAVA** | :trumpet: **ACHIEVEMENTS** |
 | | | |
