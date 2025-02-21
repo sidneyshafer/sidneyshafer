@@ -2,7 +2,8 @@
 I'm an Application Development Intern **@ The Minnesota Twins**
 
 <a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/sidneyshafer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://codepen.io/sidneyshafer" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
 
 ---
 
@@ -32,6 +33,6 @@ I'm an Application Development Intern **@ The Minnesota Twins**
 
 <p><a href="mailto:sidney@mnshafers.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidney@mnshafers.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></p>
 
-<p><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></p>
+<p><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://github.com/sidneyshafer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://codepen.io/sidneyshafer" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></p>
 
 <p>:copyright: Copyright 2020 Sidney Shafer</p>
