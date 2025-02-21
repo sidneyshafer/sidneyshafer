@@ -1,6 +1,5 @@
-<p style="font-size: 28px">Hi, I'm Sidney Shafer :wave:</p>
-<p style="font-size: 24px">An Application Development Intern</p>
-<p style="font-size: 18px"><span style="color: #bbb;">@ The Minnesota Twins</span></p>
+### Hi, I'm Sidney Shafer :wave:</p>
+<p style="font-size: 24px">I'm an Application Development Intern @ The Minnesota Twins</p>
 
 <a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -25,12 +24,10 @@
 
 ### :star2: My GitHub Stats
 
-<span>
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyshafer&size_weight=0.&count_weight=1&layout=compact&hide=Jupyter Notebook" alt="sidneyshafer" />
-</span>
-<span>
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=sidneyshafer&show_icons=true&custom_title=GitHub%20Stats&rank_icon=percentile" alt="sidneyshafer" />
-</span>
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyshafer&size_weight=0.&count_weight=1&layout=compact&hide=Jupyter Notebook" alt="sidneyshafer" />
+
+
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=sidneyshafer&show_icons=true&custom_title=GitHub%20Stats&rank_icon=percentile" alt="sidneyshafer" />
 
 ---
 
