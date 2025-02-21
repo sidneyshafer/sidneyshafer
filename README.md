@@ -1,29 +1,43 @@
-| :rocket: **WEB PROJECTS** | :star2: **REACT** | :notebook: **.NET/C#** |
-| ------------------------- | ---------------- | -------------- |
-| [Mini Web Projects](https://github.com/sidneyshafer/mini-web-projects) :orange_circle: :green_circle: :construction: | [React Guide](https://github.com/sidneyshafer/complete-react-guide) :large_blue_circle: :pencil2: | [DI Demo](https://github.com/sidneyshafer/DI_Demo) :orange_circle: :pencil2: |
-| [Sharing Ideas](https://github.com/sidneyshafer/sharing-ideas-app) :orange_circle: | [Book Finder with React Router](https://github.com/sidneyshafer/book-finder-with-router) :orange_circle: | [EF Core Demo](https://github.com/sidneyshafer/EFCore_Demo) :orange_circle: :pencil2: |
-| [Webpack Starter](https://github.com/sidneyshafer/webpack-starter) :orange_circle: :green_circle: | [Expense Tracker](https://github.com/sidneyshafer/expense-tracker) :orange_circle: | [Ultimate C# Sandbox](https://github.com/sidneyshafer/c-sharp-sandbox) :large_blue_circle: |
-| [Calorie Tracker](https://github.com/sidneyshafer/calorie-tracker-webpack) :orange_circle: | [Food Order App](https://github.com/sidneyshafer/food-order-app) :orange_circle: | [Pizza Order](https://github.com/sidneyshafer/pizza-order-app) :orange_circle: |
-| [Tindog](https://github.com/sidneyshafer/tindog) :orange_circle: | [Add User](https://github.com/sidneyshafer/add-user-project) :orange_circle: | [Calculator](https://github.com/sidneyshafer/calculator) :orange_circle: |
-| [Hotel Website](https://github.com/sidneyshafer/hotel-website) :orange_circle: | [Todo List](https://github.com/sidneyshafer/todo-list) :orange_circle: | [Phoneword](https://github.com/sidneyshafer/Phoneword) :orange_circle: |
-| [NewsGrid](https://github.com/sidneyshafer/newsgrid-website) :orange_circle: | [Web Scraping Concepts](https://github.com/sidneyshafer/web-scraping-react-project) :orange_circle:  | [BlackJack](https://github.com/sidneyshafer/Blackjack) :orange_circle: |
-| [Photo Gallery](https://github.com/sidneyshafer/photo-gallery) :orange_circle: | [React Starter Template](https://github.com/sidneyshafer/react-starter-template) :orange_circle: :green_circle: | [Bloggie](https://github.com/sidneyshafer/Bloggie) :orange_circle: |
-| [Tech Store](https://github.com/sidneyshafer/tech-store) :orange_circle: |  | [Tic-Tac-Toe](https://github.com/sidneyshafer/tic-tac-toe) :orange_circle: |
-| | | [Conversions](https://github.com/sidneyshafer/conversions) :orange_circle: |
-| | | |
-| :dizzy: **HTML & CSS** | :sparkles: **JAVASCRIPT** | :bomb: **TYPESCRIPT** |
-| [Guide to HTML5](https://github.com/sidneyshafer/html-guide) :large_blue_circle: :pencil2: | [Guide to JavaScript (ES6)](https://github.com/sidneyshafer/javascript-sandbox) :large_blue_circle: | [Guide to Learning TypeScript](https://github.com/sidneyshafer/TypeScript) :large_blue_circle: :pencil2: |
-| [Guide to CSS3](https://github.com/sidneyshafer/css-guide) :large_blue_circle: :pencil2: | [JavaScript Data Structures & Algorithms](https://github.com/sidneyshafer/JS_DSA) :large_blue_circle: :pencil2: | [Form Validation](https://github.com/sidneyshafer/form-validation-typescript) :orange_circle: |
-| [More Advanced CSS3](https://github.com/sidneyshafer/css-guide-2) :large_blue_circle: | | [Drag and Drop Project](https://github.com/sidneyshafer/drag-drop-project) :orange_circle: |
-| | | [Todo List](https://github.com/sidneyshafer/todo-list-with-typescript) :orange_circle: |
-| | | |
-| :wrench: **PYTHON** | :pushpin: **JAVA** | :trumpet: **ACHIEVEMENTS** |
-| | | |
-| [Fundamentals of Python](https://github.com/sidneyshafer/python-fundamentals) :large_blue_circle: | [Guide to Java Programming](https://github.com/sidneyshafer/java-sandbox) :large_blue_circle: | :crown: [Achievements, Certifications, and Awards](https://github.com/sidneyshafer/Achievements) |
-| [Python Bootcamp](https://github.com/sidneyshafer/python-pro-bootcamp) :large_blue_circle: | [Hangman Game](https://github.com/sidneyshafer/hangman) :orange_circle: | |
-| [Python Pro Bootcamp](https://github.com/sidneyshafer/python-pro-bootcamp) :large_blue_circle: | | |
-| [Zumi Obstacle Classification](https://github.com/sidneyshafer/zumi-project) :orange_circle: |  |  |
+# Hi, I'm Sidney Shafer :wave:
+## An Application Development Intern
+### <span style="color: #bbb;">@ The Minnesota Twins</span>
 
-:orange_circle: Applications &nbsp; &nbsp; :green_circle: Project Starters &nbsp; &nbsp; :large_blue_circle: Code Snippets &nbsp; &nbsp; :pencil2: Guides & Other Resources &nbsp; &nbsp; :construction: On-going/Work in Progress
+<a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-:copyright: Copyright 2020 Sidney Shafer
+---
+
+### :hammer_and_wrench: Technologies I Work With
+|  <p align="center">Frontend</p>            | <p align="center">Backend</p>            |
+| -------------------- | ------------------ |
+| <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JS" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> | <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" /> |
+| <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /> <img alt="Webpack" src="https://img.shields.io/badge/Webpack-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white" /> | <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> |
+| <img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" /> <img alt="Font Awesome" src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" /> | <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> |
+
+### :rocket: A Few of My Latest Projects
+
+* **Book Finder with React Router | :link: [Repo](https://github.com/sidneyshafer/book-finder-with-router)**
+    * React application utilizing React Router and custom CSS for searching books through the [Open Library API](https://openlibrary.org/developers/api).
+* **Form Validation with TypeScript | :link: [Repo](https://github.com/sidneyshafer/form-validation-typescript)**
+    * Real-time form validation logic on input fields using TypeScript functionality, and a UI built with HTML and CSS.
+* **JavaScript DataStructures & Algorithms | :link: [Repo](https://github.com/sidneyshafer/JS_DSA)**
+    * A comprehensive guide to learning data structures and algorithms in JavaScript.
+
+### :star2: My GitHub Stats
+
+<span>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyshafer&size_weight=0.&count_weight=1&layout=compact&hide=Jupyter Notebook" alt="sidneyshafer" />
+</span>
+<span>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=sidneyshafer&show_icons=true&custom_title=GitHub%20Stats&rank_icon=percentile" alt="sidneyshafer" />
+</span>
+
+---
+
+<p align="center">Based in Minneapolis, MN</p>
+<p align="center"><a href="mailto:sidney@mnshafers.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidney@mnshafers.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></p>
+<p align="center"><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">:copyright: Copyright 2020 Sidney Shafer</p>
