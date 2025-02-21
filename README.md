@@ -24,10 +24,10 @@
 
 ### :star2: My GitHub Stats
 
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyshafer&size_weight=0.&count_weight=1&layout=compact&hide=Jupyter Notebook" alt="sidneyshafer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyshafer&size_weight=0.&count_weight=1&layout=compact&hide=Jupyter Notebook" alt="sidneyshafer top languages" />
 
 
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=sidneyshafer&show_icons=true&custom_title=GitHub%20Stats&rank_icon=percentile" alt="sidneyshafer" />
+<img src="https://github-readme-stats.vercel.app/api?username=sidneyshafer&show_icons=true&custom_title=GitHub%20Stats&rank_icon=percentile" alt="sidneyshafer github stats" />
 
 ---
 
