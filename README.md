@@ -16,12 +16,14 @@ An Application Development Intern **@ The Minnesota Twins**
 
 ### :rocket: A Few of My Latest Projects
 
-* **Book Finder with React Router | :link: [Repo](https://github.com/sidneyshafer/book-finder-with-router)**
-    * React application utilizing React Router and custom CSS for searching books through the [Open Library API](https://openlibrary.org/developers/api).
-* **Form Validation with TypeScript | :link: [Repo](https://github.com/sidneyshafer/form-validation-typescript)**
-    * Real-time form validation logic on input fields using TypeScript functionality, and a UI built with HTML and CSS.
-* **JavaScript DataStructures & Algorithms | :link: [Repo](https://github.com/sidneyshafer/JS_DSA)**
-    * A comprehensive guide to learning data structures and algorithms in JavaScript.
+**Book Finder with React Router | :link:[Repo](https://github.com/sidneyshafer/book-finder-with-router)**
+* React application utilizing React Router and custom CSS for searching books through the [Open Library API](https://openlibrary.org/developers/api).
+
+**Form Validation with TypeScript | :link:[Repo](https://github.com/sidneyshafer/form-validation-typescript)**
+* Real-time form validation logic on input fields using TypeScript functionality, and a UI built with HTML and CSS.
+
+**JavaScript DataStructures & Algorithms | :link:[Repo](https://github.com/sidneyshafer/JS_DSA)**
+* A comprehensive guide to learning data structures and algorithms in JavaScript.
 
 ### :star2: My GitHub Stats
 
