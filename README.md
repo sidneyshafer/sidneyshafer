@@ -1,5 +1,5 @@
-### Hi, I'm Sidney Shafer :wave:</p>
-<p style="font-size: 24px">I'm an Application Development Intern @ The Minnesota Twins</p>
+## Hi, I'm Sidney Shafer :wave:
+I'm an Application Development Intern **@ The Minnesota Twins**
 
 <a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -24,9 +24,6 @@
 
 ### :star2: My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyshafer&size_weight=0.&count_weight=1&layout=compact&hide=Jupyter Notebook" alt="sidneyshafer top languages" />
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=sidneyshafer&show_icons=true&custom_title=GitHub%20Stats&rank_icon=percentile" alt="sidneyshafer github stats" />
 
 ---
@@ -35,8 +32,6 @@
 
 <p><a href="mailto:sidney@mnshafers.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidney@mnshafers.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></p>
 
-<p><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-<a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></p>
+<p><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></p>
 
 <p>:copyright: Copyright 2020 Sidney Shafer</p>
