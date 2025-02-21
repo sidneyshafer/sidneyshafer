@@ -1,6 +1,6 @@
-# Hi, I'm Sidney Shafer :wave:
-## An Application Development Intern
-### <span style="color: #bbb;">@ The Minnesota Twins</span>
+<p style="font-size: 28px">Hi, I'm Sidney Shafer :wave:</p>
+<p style="font-size: 24px">An Application Development Intern</p>
+<p style="font-size: 18px"><span style="color: #bbb;">@ The Minnesota Twins</span></p>
 
 <a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -34,10 +34,12 @@
 
 ---
 
-<p align="center">Based in Minneapolis, MN</p>
-<p align="center"><a href="mailto:sidney@mnshafers.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidney@mnshafers.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></p>
-<p align="center"><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<p>Based in Minneapolis, MN</p>
 
-<p align="center">:copyright: Copyright 2020 Sidney Shafer</p>
+<p><a href="mailto:sidney@mnshafers.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidney@mnshafers.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></p>
+
+<p><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://github.com/sidneyshafer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></p>
+
+<p>:copyright: Copyright 2020 Sidney Shafer</p>
