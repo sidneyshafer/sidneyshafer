@@ -24,10 +24,6 @@
 **JavaScript DataStructures & Algorithms | :link:[Repo](https://github.com/sidneyshafer/JS_DSA)**
 * A comprehensive guide to learning data structures and algorithms in JavaScript.
 
-### :star2: My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=sidneyshafer&show_icons=true&custom_title=GitHub%20Stats&rank_icon=percentile" alt="sidneyshafer github stats" />
-
 ---
 
 <p>Based in Minneapolis, MN</p>
@@ -36,4 +32,4 @@
 
 <p><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://github.com/sidneyshafer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://codepen.io/sidneyshafer" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></p>
 
-<p>:copyright: Copyright 2025 Sidney Shafer</p>
+<p>:copyright: Copyright 2026 Sidney Shafer</p>
