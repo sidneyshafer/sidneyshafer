@@ -1,35 +1,15 @@
-## Hi, I'm Sidney Shafer :wave:
+███████╗██╗██████╗ ███╗   ██╗███████╗██╗   ██╗
+██╔════╝██║██╔══██╗████╗  ██║██╔════╝╚██╗ ██╔╝
+███████╗██║██║  ██║██╔██╗ ██║█████╗   ╚████╔╝ 
+╚════██║██║██║  ██║██║╚██╗██║██╔══╝    ╚██╔╝  
+███████║██║██████╔╝██║ ╚████║███████╗   ██║   
+╚══════╝╚═╝╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝   
 
-<a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://github.com/sidneyshafer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<a href="https://codepen.io/sidneyshafer" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-
----
-
-### :hammer_and_wrench: Technologies I Work With
-|  <p align="center">Frontend</p>            | <p align="center">Backend</p>            |
-| -------------------- | ------------------ |
-| <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JS" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> | <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" /> |
-| <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /> <img alt="Webpack" src="https://img.shields.io/badge/Webpack-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white" /> | <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img alt="Google Fonts" src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" /> <img alt="Font Awesome" src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logoColor=white" /> | <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> |
-
-<!-- ### :rocket: A Few of My Latest Projects
-
-**MLB Stats Tracker UI | :link:[Repo](https://github.com/sidneyshafer/mlb-stats-tracker-ui)**
-* A modern UI mockup for exploring Major League Baseball (MLB) team and player statistics. Built with React, TypeScript, Vite, Tailwind CSS and Shadcn UI.
-
-**Book Finder with React Router | :link:[Repo](https://github.com/sidneyshafer/book-finder-with-router)**
-* React application utilizing React Router and custom CSS for searching books through the [Open Library API](https://openlibrary.org/developers/api).
-
-**JavaScript DataStructures & Algorithms | :link:[Repo](https://github.com/sidneyshafer/JS_DSA)**
-* A comprehensive guide to learning data structures and algorithms in JavaScript.
-
---- -->
-
-<p>Based in Minneapolis, MN</p>
-
-<p><a href="mailto:sidney@mnshafers.com"><img alt="Email" src="https://img.shields.io/badge/Email-sidney@mnshafers.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></p>
-
-<p><a href="https://www.linkedin.com/in/sidney-shafer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://github.com/sidneyshafer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <a href="https://codepen.io/sidneyshafer" target="_blank"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></p>
-
-<p>:copyright: Copyright 2026 Sidney Shafer</p>
+                S I D N E Y   S H A F E R
+──────────────────────────────────────────────
+```bash
+> role        : associate software engineer
+> focus       : intuitive UI + seamless UX
+> currently   : building + refactoring
+> philosophy  : build it right, then build it fast.
+```
